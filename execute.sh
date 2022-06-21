@@ -1,0 +1,1 @@
+cat shell-alias.sh >> ~/.zshrc && source ~/.zshrc
